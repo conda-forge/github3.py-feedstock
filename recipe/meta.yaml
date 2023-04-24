@@ -16,15 +16,15 @@ build:
 
 requirements:
   host:
-    - python >=3.6
+    - python >=3.7
+    - hatchling
     - pip
     - setuptools
   run:
-    - python >=3.6
+    - python >=3.7
     - pyjwt >=2.3.0
     - python-dateutil >=2.6.0
     - requests >=2.18
-    - typing-extensions >=3.10.0.2
     - uritemplate >=3.0.0
 
 test:
