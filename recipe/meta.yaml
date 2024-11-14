@@ -40,7 +40,7 @@ test:
     - pip
 
 about:
-  home: https://github3py.readthedocs.org
+  home: https://github3.readthedocs.io
   license: BSD-3-Clause
   license_file: LICENSE
   summary: Python wrapper for the GitHub API (http://developer.github.com/v3).
